@@ -1,6 +1,6 @@
 # class2024_first_repo
-Example repo for class of 2026
-Example repo for class of 2025
+Example repo for class of 2024
+Example repo for class of 2024
 
 ## First Section
 
