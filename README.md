@@ -3,4 +3,6 @@ Example repo for class of 2024
 
 ## First Section
 
+## Second Section
+
 
