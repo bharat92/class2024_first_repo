@@ -1,0 +1,1 @@
+print('Cancer Diagnosis Script')
